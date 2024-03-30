@@ -5,7 +5,7 @@ if (age >= 16 && gender == "m")
 {
     Console.WriteLine("Mr.");
 }
-else if (age < 16 &&  gender == "m")
+else if (age < 16 && gender == "m")
 {
     Console.WriteLine("Master");
 }

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Day of Week", "01. Day of Week\01. Day of Week.csproj", "{F7AC87AB-85B1-489D-8F93-BF6D0C33144E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Day of Week", "01. Day of Week\01. Day of Week.csproj", "{F7AC87AB-85B1-489D-8F93-BF6D0C33144E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Weekend or Working Day", "02. Weekend or Working Day\02. Weekend or Working Day.csproj", "{C2CF04BB-66B0-439C-820B-9586B224E5AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F7AC87AB-85B1-489D-8F93-BF6D0C33144E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7AC87AB-85B1-489D-8F93-BF6D0C33144E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7AC87AB-85B1-489D-8F93-BF6D0C33144E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CF04BB-66B0-439C-820B-9586B224E5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CF04BB-66B0-439C-820B-9586B224E5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CF04BB-66B0-439C-820B-9586B224E5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CF04BB-66B0-439C-820B-9586B224E5AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
